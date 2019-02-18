@@ -63,7 +63,7 @@
     "eslint-plugin-node": "^7.0.1",
     "glob": "^7.1.2",
     "loader.js": "^4.7.0",
-    "mocha": "^5.1.0",
+    "mocha": "^6.0.0",
     "qunit-dom": "^0.8.0",
     "rollbar": "^2.3.9"
   },
