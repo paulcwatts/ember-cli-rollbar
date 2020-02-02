@@ -63,7 +63,7 @@
     "glob": "^7.1.2",
     "loader.js": "^4.7.0",
     "mocha": "^6.0.2",
-    "qunit-dom": "^0.9.0",
+    "qunit-dom": "^1.0.0",
     "release-it": "^12.3.6",
     "rollbar": "^2.3.9"
   },
